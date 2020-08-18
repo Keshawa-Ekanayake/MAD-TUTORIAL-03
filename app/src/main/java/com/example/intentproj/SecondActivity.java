@@ -48,7 +48,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void onClickSub(View view){
-
+//dsdsdsds
         EditText editText1 = (EditText) findViewById(R.id.num1);
         EditText editText2 = (EditText) findViewById(R.id.num2);
 
